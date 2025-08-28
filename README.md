@@ -5,6 +5,5 @@
 Este repositorio contiene los recursos para el webinar sobre interpretabilidad en música usando SHAP.
 
 ## Material del Webinar (27 de agosto de 2025)
-
-- 📄 [Diapositivas en PDF]((https://drive.google.com/file/d/1zQ4cyr1k-ddwdjlHItzsrXvNtg2HJYhi/view?usp=drive_link))
+- 📄 [Diapositivas en PDF]([link_a_tu_pdf](https://drive.google.com/file/d/1zQ4cyr1k-ddwdjlHItzsrXvNtg2HJYhi/view?usp=drive_link))
 
