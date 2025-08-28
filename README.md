@@ -6,5 +6,5 @@ Este repositorio contiene los recursos para el webinar sobre interpretabilidad e
 
 ## Material del Webinar (27 de agosto de 2025)
 
-- 📄 [Diapositivas en PDF]([link](https://drive.google.com/file/d/1zQ4cyr1k-ddwdjlHItzsrXvNtg2HJYhi/view?usp=drive_link))
+- 📄 [Diapositivas en PDF]((https://drive.google.com/file/d/1zQ4cyr1k-ddwdjlHItzsrXvNtg2HJYhi/view?usp=drive_link))
 
