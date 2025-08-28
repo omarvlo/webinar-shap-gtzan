@@ -1,4 +1,4 @@
-# Webinar: Análisis SHAP en clasificación de géneros musicales 🎶
+# Webinar: Interpretabilidad vs Rendimiento: Representaciones Bioinspiradas y Embeddings en Clasificación Musical 🎶
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LythVWaZTbaWqs7rbPYY2pVd3lwlf89k?usp=sharing)
 
